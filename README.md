@@ -99,7 +99,8 @@ The data suggests a cascading effect: <br>
 
 
 <img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/a2b74909-0f88-4ee8-bf65-fb7d68c3bdeb" />
-<img width="53" height="46" alt="image" src="https://github.com/user-attachments/assets/fb1ce9e3-e2a6-4671-8012-ff7cac227280" /> <br> <img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/c48df132-724a-41b9-ade9-cecacb78b289" /> <br>
+<img width="53" height="46" alt="image" src="https://github.com/user-attachments/assets/fb1ce9e3-e2a6-4671-8012-ff7cac227280" /> <br> 
+<img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/c48df132-724a-41b9-ade9-cecacb78b289" /> <br>
 <br>
 This was not merely a demand contraction. It was an operational resilience failure.
 
