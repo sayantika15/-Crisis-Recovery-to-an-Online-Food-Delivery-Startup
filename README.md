@@ -1,4 +1,4 @@
-# Crisis-Recovery-to-an-Online-Food-Delivery-Startup
+# <u> Crisis Analysis to an Online Food Delivery Startup </u>
 QuickBite Express is a Bengaluru-based food-tech startup (founded in 2020) that connects 
 customers with nearby restaurants and cloud kitchens. 
 In June 2025, QuickBite faced a major crisis. A viral social media incident involving food 
